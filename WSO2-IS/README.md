@@ -18,6 +18,8 @@ Once the container is started, access the management console with the following 
 https://localhost:9443/carbon
 
 ## Some of the many REST APIs available
+All REST APIs can be found [here](https://is.docs.wso2.com/en/latest/develop/rest-apis/).
+> Tip: The main tenant name for WSO2 IS is 'carbon.super'. e.g. `https://localhost:9443/t/carbon.super`
 
 ### SCIM 2.0 (Users, Groups, Me)
 The SCIM API can be called in order to perform various tasks in the WSO2 Identity Server on Users, Me, and Groups (Roles). For simplicity, cURL commands are used in this example to send CRUD requests to the REST endpoints of Identity Server.
@@ -27,7 +29,11 @@ All available SCIM 2.0 API definitions are found [here](https://is.docs.wso2.com
 
 [Here](SCIM%20README.md) are some SCIM 2.0 examples.
 
+
+
 ## References and material
+### WSO IS Docs
+https://is.docs.wso2.com/en/latest/develop/rest-apis/
 ### SCIM 2.0
 https://github.com/wso2/charon
 http://www.simplecloud.info/#Implementations2
