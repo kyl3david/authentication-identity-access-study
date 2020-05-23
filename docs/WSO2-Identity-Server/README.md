@@ -27,7 +27,7 @@ The SCIM API can be called in order to perform various tasks in the WSO2 Identit
 
 All available SCIM 2.0 API definitions are found [here](https://is.docs.wso2.com/en/latest/develop/scim2-rest-apis/).
 
-[Here (SCIM README.md)](.\SCIM%20README.md) are some SCIM 2.0 examples.
+[Here (SCIM README.md)](SCIM-README.md) are some SCIM 2.0 examples.
 
 
 
